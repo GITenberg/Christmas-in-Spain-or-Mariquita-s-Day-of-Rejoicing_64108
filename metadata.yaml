@@ -1,0 +1,31 @@
+_repo: Christmas-in-Spain-or-Mariquita-s-Day-of-Rejoicing_64108
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hoxie, Bertha Davidson
+    alias: Hoxie, Bertha D.
+    gutenberg_agent_id: '52754'
+    url: http://www.gutenberg.org/2009/agents/52754
+creator:
+  author:
+    agent_name: Pomeroy, Sarah Gertrude
+    birthdate: 1882
+    gutenberg_agent_id: '52755'
+    url: http://www.gutenberg.org/2009/agents/52755
+description: ''
+gutenberg_issued: '2020-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64108'
+  lccn: '10025794'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcsh 'Spain -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Christmas in Spain; or Mariquita's Day of Rejoicing
+url: http://www.gutenberg.org/ebooks/64108
